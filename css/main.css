@@ -7,7 +7,7 @@ body {
   justify-content: center;
 }
 .container {
-  max-width: 650px;
+  max-width: 1900px;
 }
 h1 {
   font-weight: 400;
@@ -255,7 +255,7 @@ h2 {
     text-shadow: 0px 0px 5px #cacacc;
   }
 }
-@media (max-width: 600px) {
+@media (max-width: 1000px) {
   .changelog li .left {
     min-width: 160px;
   }
