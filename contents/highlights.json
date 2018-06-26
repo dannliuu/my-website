@@ -1,220 +1,76 @@
 {
-  "data": [
-    {
-      "type": "fun",
-      "date": "March 2018",
-      "description": {
-        "what": "Released",
-        "emphasis": "the official Scrabble Mechanical Keyboard",
-        "info": "I designed, licensed, and launched a Scrabble keyboard with Massdrop and Hasbro! <a href='https://www.producthunt.com/posts/massdrop-x-hasbro-scrabble-keyboard'>Check out the keyboard and press about it here!</a>"
+   "data":[
+      {
+         "type":"job",
+         "date":"May 2018",
+         "description":{
+            "what":"Joined full-time at",
+            "emphasis":"Canadian Nuclear Laboratories",
+            "info":"Joined after graduation as a nuclear engineer. Met a lot of smart people - too many smart people. Met a lot of local people - too many local people."
+         }
+      },
+      {
+         "type":"fun",
+         "date":"May 2018",
+         "description":{
+            "what":"Moved to",
+            "emphasis":"Deep River",
+            "info":"Time to get my nature on. Gonna climb a mountain."
+         }
+      },
+      {
+         "type":"event",
+         "date":"January 2018",
+         "description":{
+            "what":"Started a new project with ",
+            "emphasis":"Ontario Power Generation & University of Ontario Institute of Technology",
+            "info":"Got a lot of money to work with a bunch of AR headsets, like the Google Glass, RealWear HMT-1, and other VR tools. Bought a bunch of other radiation detection equipment to make an automated radiation detecting roomba."
+         }
+      },
+      {
+         "type":"event",
+         "date":"December 2017",
+         "description":{
+            "what":"Hacked on",
+            "emphasis":"McKinsey Analytics Hackathon",
+            "info":"Did lots of fun data science. Learned a whole bunch of machine learning techniques and tools. Visit my GitHub to learn more about data analysis!"
+         }
+      },
+      {
+         "type":"job",
+         "date":"Winter 2017",
+         "description":{
+            "what":"Left",
+            "emphasis":"Ontario Power Generation",
+            "info":"Phew. That was a long internship. Fun and vibrant place to work. Smart people, smart attitudes, and lots of smiles."
+         }
+      },
+      {
+         "type":"job",
+         "date":"Summer 2016",
+         "description":{
+            "what":"Interned at",
+            "emphasis":"Ontario Power Generation",
+            "info":"Got to experience the nuclear industry for the first time. It was nice. Fixed a lot of the things."
+         }
+      },
+      {
+         "type":"event",
+         "date":"Feburary 2016",
+         "description":{
+            "what":"Hacked on",
+            "emphasis":"Scotiabank HackIT Hackathon",
+            "info":"This was, literally, a 24/7 hackathon, half of the people were sleeping and half was coding. My team ended up being a winner, we presented to a bunch of investors, and technology start-ups."
+         }
+      },
+      {
+         "type":"job",
+         "date":"Winter 2013",
+         "description":{
+            "what":"Studied at",
+            "emphasis":"University of Ontario Institute of Technology",
+            "info":"My first taste of growing up. I ate lots of food. Spent most of my time stuDYING"
+         }
       }
-    },
-    {
-      "type": "job",
-      "date": "February 2018",
-      "description": {
-        "what": "Joined",
-        "emphasis": "Amazon",
-        "info": "I'm the Head of Developer Voice Programs here! Want to build a skill for Alexa? You should."
-      }
-    },
-    {
-      "type": "event",
-      "date": "November 2017",
-      "description": {
-        "what": "Got",
-        "emphasis": "married",
-        "info": "It's real, people. I'm a married adult!"
-      }
-    },
-    {
-      "type": "job",
-      "date": "November 2017",
-      "description": {
-        "what": "Released",
-        "emphasis": "my online JavaScript course on Udemy",
-        "info": "Super proud to have finished making my class, a JS and React course for intermediate developers. Check it out <a href='https://www.udemy.com/js-and-react-for-devs'>here</a>!"
-      }
-    },
-    {
-      "type": "fun",
-      "date": "April 2017",
-      "description": {
-        "what": "Released",
-        "emphasis": "todometer",
-        "info": "Finally finished up a side project I've been wanting to do for ages. Check it out <a href='http://cassidoo.github.io/todometer'>here</a>!"
-      }
-    },
-    {
-      "type": "event",
-      "date": "April 2017",
-      "description": {
-        "what": "Selected as one of the",
-        "emphasis": "2017 Iowa STATEment Makers",
-        "info": "I'm honored to be chosen as one of the 2017 <a href='http://www.isualum.org/pride/awards/statement-makers/2017-iowa-statement-makers/'>Iowa STATEment Makers</a>!"
-      }
-    },
-    {
-      "type": "fun",
-      "date": "December 2016",
-      "description": {
-        "what": "Got",
-        "emphasis": "engaged",
-        "info": "A whole new adventure awaits!"
-      }
-    },
-    {
-      "type": "job",
-      "date": "November 2016",
-      "description": {
-        "what": "Joined full time at",
-        "emphasis": "L4 Digital",
-        "info": "Joined as a senior software engineer."
-      }
-    },
-    {
-      "type": "fun",
-      "date": "November 2016",
-      "description": {
-        "what": "Moved to",
-        "emphasis": "Seattle",
-        "info": "Time to get my nature on. Gonna climb a mountain."
-      }
-    },
-    {
-      "type": "fun",
-      "date": "July 2016",
-      "description": {
-        "what": "Got verified on",
-        "emphasis": "Twitter",
-        "info": "See the real deal at <a href='http://twitter.com/cassidoo'>@cassidoo</a>!"
-      }
-    },
-    {
-      "type": "event",
-      "date": "March 2016",
-      "description": {
-        "what": "Spoke at",
-        "emphasis": "SXSW",
-        "info": "I spoke on a panel called <a href='http://schedule.sxsw.com/2016/events/event_PP49277'>Dev Evangelism: Building a Community of Advocates</a>."
-      }
-    },
-    {
-      "type": "event",
-      "date": "September 2015",
-      "description": {
-        "what": "Featured in",
-        "emphasis": "LinkedIn Next Wave",
-        "info": "I was included as one of LinkedIn's <a href='https://lists.linkedin.com/2015/next-wave/enterprise-tech/cassidy-williams'>top professionals 35 and under</a>!"
-      }
-    },
-    {
-      "type": "job",
-      "date": "August 2015",
-      "description": {
-        "what": "Joined full-time at",
-        "emphasis": "Clarifai",
-        "info": "Joined as Clarifai's lead developer evangelist and front-end software engineer."
-      }
-    },
-    {
-      "type": "job",
-      "date": "Feburary 2015",
-      "description": {
-        "what": "Started as Director of Outreach for",
-        "emphasis": "Hacker Fund",
-        "info": "<a href='http://hacker.fund/'>Hacker Fund</a> is an awesome charity focused on bringing tech education to high schools."
-      }
-    },
-    {
-      "type": "event",
-      "date": "November 2014",
-      "description": {
-        "what": "Featured in",
-        "emphasis": "Glamour Magazine",
-        "info": "Included as one of Glamour's <a href='http://www.glamour.com/gallery/top-new-women-leaders-in-technology#33'>35 Women Under 35 Changing the Tech Industry</a>!"
-      }
-    },
-    {
-      "type": "event",
-      "date": "November 2014",
-      "description": {
-        "what": "Spoke at the Napa Valley Film Festival for starring in the documentary",
-        "emphasis": "Big Dream",
-        "info": "Check out more about the documentary <a href='http://www.bigdreammovement.com/'>here</a>!"
-      }
-    },
-    {
-      "type": "job",
-      "date": "July 2014",
-      "description": {
-        "what": "Joined full-time at",
-        "emphasis": "Venmo",
-        "info": "Joined after graduation as a software engineer & Venmo's first developer evangelist."
-      }
-    },
-    {
-      "type": "job",
-      "date": "May 2014",
-      "description": {
-        "what": "Graduated from",
-        "emphasis": "Iowa State University",
-        "info": "Graduated with a B.S. in Computer Science and a Spanish minor. Go Cyclones!"
-      }
-    },
-    {
-      "type": "event",
-      "date": "December 2013",
-      "description": {
-        "what": "Spoke at",
-        "emphasis": "TEDxDesMoines",
-        "info": "Spoke about <a href='https://www.youtube.com/watch?v=7O0z06YRKHg'>growing up in STEM</a>. I talked about LEGOs, too."
-      }
-    },
-    {
-      "type": "event",
-      "date": "July 2013",
-      "description": {
-        "what": "Hacked on",
-        "emphasis": "British Airways UnGrounded Thinking Hackathon",
-        "info": "This was, literally, a hackathon in the sky, on a flight from San Fran to London. My awesome team ended up being a winner, and we presented our project to various events, and we spoke to the U.N. later in the Fall."
-      }
-    },
-    {
-      "type": "job",
-      "date": "Summer 2013",
-      "description": {
-        "what": "Interned at",
-        "emphasis": "Intuit",
-        "info": "Got to experience Silicon Valley for the first time. It was nice. I also did a lot of JavaScript."
-      }
-    },
-    {
-      "type": "job",
-      "date": "Summer 2012",
-      "description": {
-        "what": "Interned at",
-        "emphasis": "Microsoft",
-        "info": "Worked on the Bing Ads team to bring you some awesome mobile web experiences. That I'm sure you use every day."
-      }
-    },
-    {
-      "type": "fun",
-      "date": "Spring 2012",
-      "description": {
-        "what": "Studied in",
-        "emphasis": "Spain",
-        "info": "Lived in Cáceres, Spain for a semester. Ate a lot of olives. Spoke a lot of Spanish."
-      }
-    },
-    {
-      "type": "job",
-      "date": "Summer 2011",
-      "description": {
-        "what": "Interned at",
-        "emphasis": "General Mills",
-        "info": "My first internship after my freshman year. I ate so much food."
-      }
-    }
-  ]
+   ]
 }
