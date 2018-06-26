@@ -1,153 +1,76 @@
 {
-
-  "data": [
-
-    {
-
-      "type": "job",
-
-      "date": May 2018",
-
-      "description": {
-
-        "what": "Joined full-time at",
-
-        "emphasis": "Canadian Nuclear Laboratories",
-
-        "info": "Joined after graduation as a nuclear engineer. Met a lot of smart people - too many smart people. Met a lot of local people - too many local people."
-
+   "data":[
+      {
+         "type":"job",
+         "date":"May 2018",
+         "description":{
+            "what":"Joined full-time at",
+            "emphasis":"Canadian Nuclear Laboratories",
+            "info":"Joined after graduation as a nuclear engineer. Met a lot of smart people - too many smart people. Met a lot of local people - too many local people."
+         }
+      },
+      {
+         "type":"fun",
+         "date":"May 2018",
+         "description":{
+            "what":"Moved to",
+            "emphasis":"Deep River",
+            "info":"Time to get my nature on. Gonna climb a mountain."
+         }
+      },
+      {
+         "type":"event",
+         "date":"January 2018",
+         "description":{
+            "what":"Started a new project with ",
+            "emphasis":"Ontario Power Generation & University of Ontario Institute of Technology",
+            "info":"Got a lot of money to work with a bunch of AR headsets, like the Google Glass, RealWear HMT-1, and other VR tools. Bought a bunch of other radiation detection equipment to make an automated radiation detecting roomba."
+         }
+      },
+      {
+         "type":"event",
+         "date":"December 2017",
+         "description":{
+            "what":"Hacked on",
+            "emphasis":"McKinsey Analytics Hackathon",
+            "info":"Did lots of fun data science. Learned a whole bunch of machine learning techniques and tools. Visit my GitHub to learn more about data analysis!"
+         }
+      },
+      {
+         "type":"job",
+         "date":"Winter 2017",
+         "description":{
+            "what":"Left",
+            "emphasis":"Ontario Power Generation",
+            "info":"Phew. That was a long internship. Fun and vibrant place to work. Smart people, smart attitudes, and lots of smiles."
+         }
+      },
+      {
+         "type":"job",
+         "date":"Summer 2016",
+         "description":{
+            "what":"Interned at",
+            "emphasis":"Ontario Power Generation",
+            "info":"Got to experience the nuclear industry for the first time. It was nice. Fixed a lot of the things."
+         }
+      },
+      {
+         "type":"event",
+         "date":"Feburary 2016",
+         "description":{
+            "what":"Hacked on",
+            "emphasis":"Scotiabank HackIT Hackathon",
+            "info":"This was, literally, a 24/7 hackathon, half of the people were sleeping and half was coding. My team ended up being a winner, we presented to a bunch of investors, and technology start-ups."
+         }
+      },
+      {
+         "type":"job",
+         "date":"Winter 2013",
+         "description":{
+            "what":"Studied at",
+            "emphasis":"University of Ontario Institute of Technology",
+            "info":"My first taste of growing up. I ate lots of food. Spent most of my time stuDYING"
+         }
       }
-
-    },
-
-    {
-
-      "type": "fun",
-
-      "date": "May 2018",
-
-      "description": {
-
-        "what": "Moved to",
-
-        "emphasis": "Deep River",
-
-        "info": "Time to get my nature on. Gonna climb a mountain."
-
-      }
-
-    },
-
-    {
-
-      "type": "event",
-
-      "date": "January 2018",
-
-      "description": {
-
-        "what": "Started a new project with ",
-
-        "emphasis": Ontario Power Generation & University of Ontario Institute of Technology",
-
-        "info": "Got a lot of money to work with a bunch of AR headsets, like the Google Glass, RealWear HMT-1, and other VR tools. Bought a bunch of other radiation detection equipment to make an automated radiation detecting roomba."
-
-      }
-
-    },
-
-                {
-
-      "type": "event",
-
-      "date": "December 2017",
-
-      "description": {
-
-        "what": "Hacked on",
-
-        "emphasis": "McKinsey Analytics Hackathon",
-
-        "info": "Did lots of fun data science. Learned a whole bunch of machine learning techniques and tools. Visit my GitHub to learn more about data analysis!"
-
-      }
-
-    },
-
-    {
-
-      "type": "job",
-
-      "date": "Winter 2017",
-
-      "description": {
-
-        "what": "Left",
-
-        "emphasis": "Ontario Power Generation",
-
-        "info": "Phew. That was a long internship. Fun and vibrant place to work. Smart people, smart attitudes, and lots of smiles."
-
-      }
-
-    },
-
-   
-
-    {
-
-      "type": "job",
-
-      "date": "Summer 2016",
-
-      "description": {
-
-        "what": "Interned at",
-
-        "emphasis": "Ontario Power Generation",
-
-        "info": "Got to experience the nuclear industry for the first time. It was nice. Fixed a lot of the things."
-
-      }
-
-    },
-
-    {
-
-      "type": "event",
-
-      "date": "Feburary 2016",
-
-      "description": {
-
-        "what": "Hacked on",
-
-        "emphasis": "Scotiabank HackIT Hackathon",
-
-        "info": "This was, literally, a 24/7 hackathon, half of the people were sleeping and half was coding. My team ended up being a winner, we presented to a bunch of investors, and technology start-ups."
-
-      }
-
-    },
-
-    {
-
-      "type": "job",
-
-      "date": "Winter 2013",
-
-      "description": {
-
-        "what": "Studied at",
-
-        "emphasis": "University of Ontario Institute of Technology",
-
-        "info": "My first taste of growing up. I ate lots of food. Spent most of my time stuDYING"
-
-      }
-
-    }
-
-  ]
-
+   ]
 }
