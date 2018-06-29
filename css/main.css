@@ -1,6 +1,6 @@
 body {
-  background: #24252D;
-  color: #CACACC;
+  background: #ffffff;
+  color: #000000;
   font-family: 'Roboto Mono', monospace;
   font-size: .8em;
   display: flex;
@@ -22,7 +22,7 @@ h2 {
   margin: 0 0 1.5em 0;
 }
 .links a {
-  color: #CACACC;
+  color: #000000;
   margin: auto 1em auto 0;
 }
 .intro {
@@ -82,7 +82,7 @@ h2 {
   justify-content: flex-start;
 }
 .changelog li .left {
-  color: #696A6F;
+  color: #ffffff;
   font-weight: 300;
   min-width: 200px;
 }
@@ -175,7 +175,7 @@ h2 {
   margin: 2em 0;
 }
 .bio .exp {
-  background: #2f313b;
+  background: #cecece;
   line-height: 1.8em;
   margin: 2em 0 0 0;
   padding: 0.8em 1.2em;
