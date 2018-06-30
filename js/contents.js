@@ -41,17 +41,15 @@ function pullPress() {
 }
 
 function highlights() {
-  var result = document.getElementById('highlights');
-  var h;
+  var h = document.getElementById('highlights');
   pullHighlights().then(function(r) {
     document.getElementsByClassName('loading')[0].classList.add('hide');
     r.data.forEach(function (x) {
       h.innerHTML += '<li class="' + x.type +
-        '"><div class="left">' + x.date +
-        '</div><div class="desc"><div>' + x.description.what+ ' ' +
-        '<em>' + x.description.emphasis + '</em></div><div class="info">' +
+        '"><div class="left">' + x.date.bold(); +
+        '</div><div class="desc"><div>' + x.description.what.bold(); + ' ' +
+        '<em>' + x.description.emphasis.bold(); + '</em></div><div class="info">' +
         x.description.info + '</div></div></li>';
-        var result = h.bold();
     });
   });
 }
