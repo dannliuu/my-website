@@ -54,6 +54,11 @@ h2 {
 .changelog {
   margin: 0 0 2em 0;
 }
+
+.dark{
+  font-weight::bold
+}
+
 .changelog a {
   color: #E9BC3F;
   text-decoration: none;

@@ -46,9 +46,9 @@ function highlights() {
     document.getElementsByClassName('loading')[0].classList.add('hide');
     r.data.forEach(function (x) {
       h.innerHTML += '<li class="' + x.type +
-        '"><div class="left">' + x.date +
-        '</div><div class="desc"><div>' + x.description.what + ' ' +
-        '<em>' + x.description.emphasis + '</em></div><div class="info">' +
+        '"><div class="left">' + x.date.dark +
+        '</div><div class="desc"><div>' + x.description.what.dark + ' ' +
+        '<em>' + x.description.emphasis.dark + '</em></div><div class="info">' +
         x.description.info + '</div></div></li>';
     });
   });
