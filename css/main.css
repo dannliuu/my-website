@@ -82,7 +82,7 @@ h2 {
   justify-content: flex-start;
 }
 .changelog li .left {
-  color: #ffffff;
+  color: #000000;
   font-weight: 300;
   min-width: 200px;
 }
