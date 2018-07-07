@@ -48,8 +48,8 @@ function highlights() {
       h.innerHTML += '<li class="' + x.type +
         '"><div class="left">' + x.date +
         '</div><div class="desc"><div>' + x.description.what + ' ' +
-        '<em>' + x.description.emphasis + '</em></div><div class="info">' +
-        x.description.info + '</div></div></li>';
+        '<em>' + x.description.emphasis + '</em></div><div class="info"><p>' +
+        x.description.info + '</p></div></div></li>';
     });
   });
 }
