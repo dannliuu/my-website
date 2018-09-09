@@ -1,12 +1,30 @@
 {
    "data":[
+     {
+        "type":"job",
+        "date":"<b>September 2018</b>",
+        "description":{
+           "what":"<b>Joined full-time at</b>",
+           "emphasis":"<b>Ontario Power Generation</b>",
+           "info":"Found out I very much enjoyed building stuff. Working on a $500 M project that is essential to Ontario's Darlington Nuclear Refurbishment."
+        }
+     },
+     {
+        "type":"job",
+        "date":"<b>September 2018</b>",
+        "description":{
+           "what":"<b>left</b>",
+           "emphasis":"<b>Canadian Nuclear Laboratories</b>",
+           "info":"Short but sweet. I found out that to pursue a part of my dreams to research cool nuclear science stuff, I would need a master's degree - I'll be back."
+        }
+     },
       {
          "type":"job",
          "date":"<b>May 2018</b>",
          "description":{
             "what":"<b>Joined full-time at</b>",
             "emphasis":"<b>Canadian Nuclear Laboratories</b>",
-            "info":"Joined after graduation as a nuclear engineer. Met a lot of smart people. Working with Tritium gas - used for lights, medicine, and fusion energy stuff."
+            "info":"Joined after graduation as a nuclear engineer. Met a lot of smart people. Working with Tritium gas - used for lights, medicine, and fusion energy."
          }
       },
       {
