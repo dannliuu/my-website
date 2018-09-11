@@ -1,12 +1,22 @@
 {
    "data":[
+
+     {
+       "type":"event",
+       "date":"<b>September 2018</b>",
+       "description":{
+         "what":"<b>Founded</b>",
+         "emphasis":"<b>Perturb Technologies</b>",
+         "info":"I started my own company to incubate all the stuff I wanted to build. Visit us at the link in the header!"
+       }
+     },
      {
         "type":"job",
         "date":"<b>September 2018</b>",
         "description":{
            "what":"<b>Joined full-time at</b>",
            "emphasis":"<b>Ontario Power Generation</b>",
-           "info":"Found out I very much enjoyed building stuff. Working on a $500 M project that is essential to Ontario's Darlington Nuclear Refurbishment."
+           "info":"Found out still I very much enjoy building stuff. Working on a $500M project that is essential to Ontario's Darlington Nuclear Refurbishment."
         }
      },
      {
@@ -15,7 +25,7 @@
         "description":{
            "what":"<b>left</b>",
            "emphasis":"<b>Canadian Nuclear Laboratories</b>",
-           "info":"Short but sweet. I found out that to pursue a part of my dreams to research cool nuclear science stuff, I would need a master's degree - I'll be back."
+           "info":"Short but sweet. Found out that adminstrating my own nuclear science projects would need a graduates degree - I'll be back."
         }
      },
       {
