@@ -1,7 +1,7 @@
 {
    "data":[
 
-     {
+     /* {
        "type":"event",
        "date":"<b>September 2018</b>",
        "description":{
@@ -9,14 +9,14 @@
          "emphasis":"<b>Perturb Technologies</b>",
          "info":"I started my own company to incubate all the stuff I wanted to build. Visit us at the link in the header!"
        }
-     },
+     }, */
      {
         "type":"job",
         "date":"<b>September 2018</b>",
         "description":{
            "what":"<b>Joined full-time at</b>",
            "emphasis":"<b>Ontario Power Generation</b>",
-           "info":"Found out still I very much enjoy building stuff. Working on a $500M project that is essential to Ontario's Darlington Nuclear Refurbishment."
+           "info":"Found out still I very much enjoy building stuff. Working on a $500M+ project that is essential to Ontario's Darlington Nuclear Refurbishment."
         }
      },
      {
