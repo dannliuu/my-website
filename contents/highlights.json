@@ -1,15 +1,6 @@
 {
    "data":[
-
-     /* {
-       "type":"event",
-       "date":"<b>September 2018</b>",
-       "description":{
-         "what":"<b>Founded</b>",
-         "emphasis":"<b>Perturb Technologies</b>",
-         "info":"I started my own company to incubate all the stuff I wanted to build. Visit us at the link in the header!"
-       }
-     }, */
+     
      {
         "type":"job",
         "date":"<b>September 2018</b>",
