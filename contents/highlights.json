@@ -1,6 +1,14 @@
 {
    "data":[
-
+     {
+        "type":"job",
+        "date":"<b>January 2020</b>",
+        "description":{
+           "what":"<b>Joined full-time at</b>",
+           "emphasis":"<b>Terrestrial Energy</b>",
+           "info":"Developing a new nuclear reactor design - doing my best to make it super safe!"
+        }
+     },
      {
         "type":"job",
         "date":"<b>September 2018</b>",
