@@ -29,6 +29,10 @@ h2 {
 }
 .intro {
   margin: 0 0 2em 0;
+  pointer-events: auto;
+  position: relative;
+  display: block;
+  display: grid;
 }
 .intro a {
   color: #10A2F5;

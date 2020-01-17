@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25b07eea-2f48-41c2-8842-c25ee997d59d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js/greeting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery-3.4.1.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AR_Proposal 2.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/greeting.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/greeting.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +36,11 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -49,7 +54,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Node.js.greeting.js">
-    <configuration name="All Features in: websites" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="All Features in: websites" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="3" />
       <option name="FILE_PATH" value="$PROJECT_DIR$" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
@@ -98,7 +103,9 @@
       <workItem from="1570902069866" duration="1483000" />
       <workItem from="1571285569820" duration="315000" />
       <workItem from="1571349929153" duration="274000" />
-      <workItem from="1579151237760" duration="3983000" />
+      <workItem from="1579151237760" duration="4036000" />
+      <workItem from="1579219646348" duration="321000" />
+      <workItem from="1579220021057" duration="1743000" />
     </task>
     <servers />
   </component>

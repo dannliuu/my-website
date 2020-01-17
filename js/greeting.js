@@ -15,3 +15,4 @@ if (hourNow > 18) {
 $(document).ready(function() {
     $('#greeting').html(greeting);
 });
+
