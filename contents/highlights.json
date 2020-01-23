@@ -89,15 +89,6 @@
             "emphasis":"<b>Scotiabank HackIT Hackathon</b>",
             "info":"This was, literally, a 24/7 hackathon, half of the people were sleeping and half were coding. My team ended up being a winner, we presented to a bunch of investors, and venture capitalists."
          }
-      },
-      {
-         "type":"job",
-         "date":"<b>Winter 2013</b>",
-         "description":{
-            "what":"<b>Studied at</b>",
-            "emphasis":"<b>University of Ontario Institute of Technology</b>",
-            "info":"My first taste of growing up. Enrolled in the only school in Canada that teaches an undergraduate program in Nuclear Engineering."
-         }
       }
    ]
 }

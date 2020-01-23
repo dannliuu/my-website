@@ -11,6 +11,9 @@ body {
 .container {
   max-width: 1000px;
 }
+p {
+  margin-top: 0.6em; margin-bottom: 0em;
+}
 h1 {
   font-weight: 400;
   margin: 0;
