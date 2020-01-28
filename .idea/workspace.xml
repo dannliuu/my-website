@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="25b07eea-2f48-41c2-8842-c25ee997d59d" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="25b07eea-2f48-41c2-8842-c25ee997d59d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/android-chrome-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/android-chrome-192x192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/apple-touch-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/mstile-150x150.png" beforeDir="false" />
+    </list>
+>>>>>>> parent of 492faf3... hill-areas
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,16 +52,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="css" value="103" />
           <entry key="html" value="242" />
           <entry key="js" value="6" />
+=======
+          <entry key="css" value="6" />
+          <entry key="html" value="199" />
+>>>>>>> parent of 492faf3... hill-areas
           <entry key="json" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="CSS" value="103" />
           <entry key="HTML" value="242" />
+=======
+          <entry key="CSS" value="6" />
+          <entry key="HTML" value="199" />
+>>>>>>> parent of 492faf3... hill-areas
           <entry key="JSON" value="1" />
           <entry key="JavaScript" value="6" />
         </counts>
@@ -64,8 +83,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="75">
               <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+=======
+            <state relative-caret-position="377">
+              <caret line="70" column="42" selection-start-line="70" selection-start-column="42" selection-end-line="70" selection-end-column="42" />
+>>>>>>> parent of 492faf3... hill-areas
             </state>
           </provider>
         </entry>
@@ -433,6 +457,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="75">
           <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
@@ -442,6 +467,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="868">
           <caret line="305" column="4" selection-start-line="305" selection-start-column="4" selection-end-line="305" selection-end-column="4" />
+=======
+        <state relative-caret-position="377">
+          <caret line="70" column="42" selection-start-line="70" selection-start-column="42" selection-end-line="70" selection-end-column="42" />
+>>>>>>> parent of 492faf3... hill-areas
         </state>
       </provider>
     </entry>
