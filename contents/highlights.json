@@ -1,5 +1,14 @@
 {
    "data":[
+      {
+         "type":"event",
+         "date":"<b>July 2022</b>",
+         "description":{
+            "what":"<b>Launched</b>",
+            "emphasis":"<b>Maneki</b>",
+            "info":"My own software development company. Working on new features for the largest nuclear power plant in the world."
+         }
+      },
      {
         "type":"job",
         "date":"<b>January 2020</b>",
@@ -15,25 +24,16 @@
         "description":{
            "what":"<b>Joined full-time at</b>",
            "emphasis":"<b>Ontario Power Generation</b>",
-           "info":"Found out still I very much enjoy building stuff. Working on a $500M+ project essential to Ontario's Darlington Nuclear Refurbishment."
+           "info":"Found out still I very much enjoy building stuff. Working on a $0.5B project for Ontario's Darlington Nuclear Power Plant."
         }
      },
      {
-        "type":"job",
-        "date":"<b>September 2018</b>",
-        "description":{
-           "what":"<b>left</b>",
-           "emphasis":"<b>Canadian Nuclear Laboratories</b>",
-           "info":"Short but sweet. Found out that adminstrating my own nuclear science projects would need a graduates degree - I'll be back."
-        }
-     },
-      {
          "type":"job",
          "date":"<b>May 2018</b>",
          "description":{
             "what":"<b>Joined full-time at</b>",
             "emphasis":"<b>Canadian Nuclear Laboratories</b>",
-            "info":"Joined after graduation as a nuclear engineer. Met a lot of smart people. Working with Tritium gas - used for lights, medicine, and fusion energy."
+            "info":"Joined after graduation as a nuclear engineer. Met a lot of smart people. Working with Tritium for fusion energy research."
          }
       },
       {
